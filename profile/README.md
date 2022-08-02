@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../images/logo-light.png" width="50%">
+    <img alt="Kellerkinder Logo" src="../images/logo-light.png" width="50%">
 </div>
 
 ## <div align="center">True. Shopware. Nerds.</center>
@@ -19,6 +19,11 @@
     Für Consulting, Konzeption & Plugin-Entwicklung.
 </pre>
 
+## Was wir machen
+
+> Grobe Darstellung unserer Arbeit (mit Shopware).
+> Eventuell coole Open-Source-Projekte von uns verlinken.
+
 ## Wir suchen Dich!
 
 Wir lieben, was wir tun.
@@ -32,3 +37,14 @@ Und dafür brauchen wir Verstärkung!
 * Job A
 * Job B
 * Job C
+
+> Jobs entweder als Badge, als Liste oder mit kurzen Details darstellen.
+
+## Kommende Events
+
+> Kommende Meetups und andere Events darstellen.
+> Entweder mittels manueller Pflege oder Feed-Script?
+
+## Partner
+
+> Eventuelle Auflistung der Partner mit Logo?
