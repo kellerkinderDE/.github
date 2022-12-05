@@ -2,7 +2,7 @@
     <img alt="Kellerkinder Logo" src="../images/logo-light.png" width="50%">
 </div>
 
-## <div align="center">True. Shopware. Nerds.</center>
+## <div align="center">Inspire. Everyday.</center>
 
 <div align="center">
     <img alt="Website" src="https://img.shields.io/badge/Website--F56600?style=for-the-badge"/> 
@@ -34,17 +34,10 @@ Systemen.
 
 Und dafür brauchen wir Verstärkung!
 
-* Job A
-* Job B
-* Job C
-
-> Jobs entweder als Badge, als Liste oder mit kurzen Details darstellen.
+* [Technical Architect (m/w/d)](https://kellerkinder.jobs.personio.de/job/386720)
+* [Shopware Backend-Developer (m/w/d)](https://kellerkinder.jobs.personio.de/job/386712)
+* Oder vielleicht was [ganz anderes](https://www.kellerkinder.de/jobs)?
 
 ## Kommende Events
 
-> Kommende Meetups und andere Events darstellen.
-> Entweder mittels manueller Pflege oder Feed-Script?
-
-## Partner
-
-> Eventuelle Auflistung der Partner mit Logo?
+Du kannst uns auf verschiedenen Events, Konferenzen oder Meetups treffen. Eine aktuelle Übersicht haben wir auf [unserer Webseite](https://kellerkinder.de/events).
