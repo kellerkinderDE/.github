@@ -21,15 +21,17 @@
 
 ## Was wir machen
 
-> Grobe Darstellung unserer Arbeit (mit Shopware).
-> Eventuell coole Open-Source-Projekte von uns verlinken.
+* Komplexe Prozessintegrationen in Shopware, z.B. mit SAP, Microsoft Dynamics oder anderen ERP-Lösungen
+* Schnittstellenanbindungen, z.B. für Preise, Produktdaten oder EDI-Übertragungen
+* Community-Arbeit in der Shopware- und PHP-Welt mit Meetups und Open-Source-Projekten
+* und vieles mehr, z.B. Zahlungsintegrationen, Performance-Optimierungen, Deployment-Prozesse ...
 
 ## Wir suchen Dich!
 
 Wir lieben, was wir tun.
 Nicht umsonst heißt unser Credo "Qualität ist der beste Businessplan".
 Und deshalb haben wir uns auch auf Shopware spezialisiert.
-Keine anderen Projekte, pures Shopware mit Vue.js-/ExtJS- und (Frontend-) Erweiterungen sowie Anbindungen von externen
+Keine anderen Projekte, pures Shopware mit Erweiterungen sowie Anbindungen von externen
 Systemen.
 
 Und dafür brauchen wir Verstärkung!
