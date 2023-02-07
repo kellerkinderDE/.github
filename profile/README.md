@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://www.kellerkinder.de"><img alt="Kellerkinder Logo" src="../images/logo-light.png" width="50%"></a>
+    <a href="https://www.kellerkinder.de"><img alt="Kellerkinder Logo" src="https://raw.github.com/kellerkinderDE/.github/main/images/logo-light.png?sanitize=true" width="50%"></a>
 </div>
 
 ## <div align="center">Inspire. Everyday.</center>
