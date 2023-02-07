@@ -1,14 +1,13 @@
 <div align="center">
-    <img alt="Kellerkinder Logo" src="../images/logo-light.png" width="50%">
+    <a href="https://www.kellerkinder.de"><img alt="Kellerkinder Logo" src="../images/logo-light.png" width="50%"></a>
 </div>
 
 ## <div align="center">Inspire. Everyday.</center>
 
 <div align="center">
-    <img alt="Website" src="https://img.shields.io/badge/Website--F56600?style=for-the-badge"/> 
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter--00ACEE?style=for-the-badge&logo=twitter&logoColor=fff"/> 
-    <img alt="XING" src="https://img.shields.io/badge/XING--126567?style=for-the-badge&logo=xing&logoColor=fff"/> 
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--0e76a8?style=for-the-badge&logo=linkedin&logoColor=fff"/> 
+    <a href="https://www.kellerkinder.de"><img alt="Website" src="https://img.shields.io/badge/Website--F56600?style=for-the-badge"/></a>
+    <a href="https://twitter.com/kellerkinderDE"><img alt="Twitter" src="https://img.shields.io/badge/Twitter--00ACEE?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
+    <a href="https://www.linkedin.com/company/kellerkinder-k10r-gmbh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--0e76a8?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
 </div>
 
 <br/>
