@@ -42,4 +42,4 @@ Und dafür brauchen wir Verstärkung!
 
 ## Kommende Events
 
-Du kannst uns auf verschiedenen Events, Konferenzen oder Meetups treffen. Eine aktuelle Übersicht haben wir auf [unserer Webseite](https://kellerkinder.de/events).
+Du kannst uns auf verschiedenen Events, Konferenzen oder Meetups treffen. Eine aktuelle Übersicht haben wir auf [unserer Webseite](https://www.kellerkinder.de/events).
